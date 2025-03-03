@@ -1,0 +1,320 @@
+{
+  "headerBanner": [
+    { "name": "Students graduated", "value": "1200" },
+    { "name": "Completed courses", "value": "84" },
+    { "name": "Qualified tutors", "value": "16" },
+    { "name": "Years of experience", "value": "5" }
+  ],
+  "WhoWeAre": [
+    { "text": "A fermentum in morbi pretium aliquam adipiscing donec tempus." },
+    { "text": "Vulputate placerat amet pulvinar lorem nisl." },
+    {
+      "text": "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed."
+    },
+    { "text": "Etiam duis lobortis in fames ultrices commodo nibh." },
+    { "text": "Tincidunt sagittis neque sem ac eget." },
+    {
+      "text": "Ultricies amet justo et eget quisque purus vulputate dapibus tortor."
+    }
+  ],
+  "HomeCourses": [
+    {
+      "link": "../../public/onlineCourses/image.png",
+      "type": "Marketing",
+      "direction": "The Ultimate Google Ads Training Course",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$100",
+      "lastName": "by Jerome Bell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image1.png",
+      "type": "Management",
+      "direction": "Prduct Management Fundamentals",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$480",
+      "lastName": "by Marvin McKinney",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image2.png",
+      "type": "HR & Recruting",
+      "direction": "HR  Management and Analytics",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$200",
+      "lastName": "by Leslie Alexander Li",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image3.png",
+      "type": "Marketing",
+      "direction": "Brand Management & PR Communications",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$530",
+      "lastName": "by Kristin Watson",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image4.png",
+      "type": "Management",
+      "direction": "Business Development Management",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$400",
+      "lastName": "by Dianne Russell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image5.png",
+      "type": "Design",
+      "direction": "BGraphic Design Basic",
+      "value": "$500",
+      "lastName": "by Guy Hawkins",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "https://t.me/sadullayevichabdulla"
+    },
+    {
+      "link": "../../public/onlineCourses/image5.png",
+      "type": "Design",
+      "direction": "BGraphic Design Basic",
+      "value": "$500",
+      "lastName": "by Guy Hawkins",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "https://t.me/sadullayevichabdulla"
+    },
+    {
+      "link": "../../public/onlineCourses/image.png",
+      "type": "Marketing",
+      "direction": "The Ultimate Google Ads Training Course",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$100",
+      "lastName": "by Jerome Bell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image1.png",
+      "type": "Management",
+      "direction": "Prduct Management Fundamentals",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$480",
+      "lastName": "by Marvin McKinney",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image2.png",
+      "type": "HR & Recruting",
+      "direction": "HR  Management and Analytics",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$200",
+      "lastName": "by Leslie Alexander Li",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image3.png",
+      "type": "Marketing",
+      "direction": "Brand Management & PR Communications",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$530",
+      "lastName": "by Kristin Watson",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+
+    {
+      "link": "../../public/onlineCourses/image4.png",
+      "type": "Management",
+      "direction": "Business Development Management",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$400",
+      "lastName": "by Dianne Russell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+    {
+      "link": "../../public/onlineCourses/image4.png",
+      "type": "Management",
+      "direction": "Business Development Management",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$400",
+      "lastName": "by Dianne Russell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+    {
+      "link": "../../public/onlineCourses/image4.png",
+      "type": "Management",
+      "direction": "Business Development Management",
+      "comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eveniet placeat provident maiores nihil earum officia blanditiis molestiae velit numquam laudantium reiciendis quis, iusto dicta in suscipit magni! Odit tempora alias distinctio libero delectus nisi voluptatibus ducimus quibusdam vero, itaque corrupti voluptatem voluptatum cupiditate, sint doloremque. Possimus impedit eos inventore?",
+      "value": "$400",
+      "lastName": "by Dianne Russell",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "t.me/sadullayevichabdulla"
+    },
+    {
+      "link": "../../public/onlineCourses/image5.png",
+      "type": "Design",
+      "direction": "BGraphic Design Basic",
+      "value": "$500",
+      "lastName": "by Guy Hawkins",
+      "instagramLink": "https://www.instagram.com/@sadullayevich_1998/",
+      "facebookLink": "https://www.facebook.com/share/1FGM9Xwb7Z/",
+      "telegramLink": "https://t.me/sadullayevichabdulla"
+    }
+  ],
+  "HomBenefits": [
+    {
+      "img": "../../public/benifits/illustration.png",
+      "title": "Only practicing tutors",
+      "text": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa. Fermentum diam diam sociis vestibulum. Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    },
+    {
+      "img": "../../public/benifits/illustration.png",
+      "title": "Only practicing tutors",
+      "text": "Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa. Fermentum diam diam sociis vestibulum. Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    },
+    {
+      "img": "../../public/benifits/illustration.png",
+      "title": "Only practicing tutors",
+      "text": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa.Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa. Fermentum diam diam sociis vestibulum. Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    },
+    {
+      "img": "../../public/benifits/illustration.png",
+      "title": "Only practicing tutors",
+      "text": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa.  Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    }
+  ],
+  "HomeEvent": [
+    {
+      "day": "5",
+      "months": "August ",
+      "timeStart": "11:00",
+      "timeEnd": "14:00",
+      "title": "Formation of the organizational structure of the company in the face of uncertainty.",
+      "type": "Onine master-class",
+      "body": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa.  Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    },
+    {
+      "day": "5",
+      "months": "August ",
+      "timeStart": "11:00",
+      "timeEnd": "14:00",
+      "title": "Formation of the organizational structure of the company in the face of uncertainty.",
+      "type": "Onine master-class",
+      "body": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa.  Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    },
+    {
+      "day": "5",
+      "months": "August ",
+      "timeStart": "11:00",
+      "timeEnd": "14:00",
+      "title": "Formation of the organizational structure of the company in the face of uncertainty.",
+      "type": "Onine master-class",
+      "body": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa.  Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+    }
+  ],
+  "certificate": [
+    {
+      "img": "../../public/certificate/certificate.png",
+      "text": "We are accredited by international professional organizations and institutes:",
+      "logos": [
+        "../../public/certificate/logo.png",
+        "../../public/certificate/logo2.png",
+        "../../public/certificate/logo3.png"
+      ]
+    }
+  ],
+  "HomeTestimonials": [
+    {
+      "link": "../../public/onlineCourses/image.png",
+      "name": "Eleanor Pena",
+      "position": "Position, Course",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in."
+    },
+    {
+      "name": "Eleanor Pena",
+      "position": "Position, Course",
+      "link": "../../public/onlineCourses/image2.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in."
+    },
+    {
+      "name": "Eleanor Pena",
+      "position": "Position, Course",
+      "link": "../../public/onlineCourses/image3.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in."
+    },
+    {
+      "name": "Eleanor Pena",
+      "position": "Position, Course",
+      "link": "../../public/onlineCourses/image4.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in."
+    },
+    {
+      "name": "Eleanor Pena",
+      "position": "Position, Course",
+      "link": "../../public/onlineCourses/image5.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Justo, amet lectus quam viverra mus lobortis fermentum amet, eu. Pulvinar eu sed purus facilisi. Vitae id turpis tempus ornare turpis quis non. Congue tortor in euismod vulputate etiam eros. Pulvinar neque pharetra arcu diam maecenas diam integer in."
+    }
+  ],
+  "bold": [
+    {
+      "typeFile": "audio",
+      "file": "../../public/blog/audio.mp3",
+      "image": "../../public/blog/image.png",
+      "type": "Marketing",
+      "data": "September 4, 2020",
+      "time": "36 min",
+      "title": " What is traffic arbitrage and does it really make money?",
+      "text": " Pharetra, ullamcorper iaculis viverra parturient sed id sed.Convallis proin dignissim lacus, purus gravida..."
+    },
+
+    {
+      "typeFile": "video",
+      "file": "../../public/blog/audio.mp3",
+      "image": "../../public/blog/image.png",
+      "type": "Marketing",
+      "data": "September 4, 2020",
+      "time": "36 min",
+      "title": " What is traffic arbitrage and does it really make money?",
+      "text": " Pharetra, ullamcorper iaculis viverra parturient sed id sed.Convallis proin dignissim lacus, purus gravida..."
+    },
+    {
+      "typeFile": "file",
+      "file": "../../public/blog/audio.mp3",
+      "image": "../../public/blog/image.png",
+      "type": "Marketing",
+      "data": "September 4, 2020",
+      "time": "36 min",
+      "title": " What is traffic arbitrage and does it really make money?",
+      "text": " Pharetra, ullamcorper iaculis viverra parturient sed id sed.Convallis proin dignissim lacus, purus gravida..."
+    }
+  ]
+}

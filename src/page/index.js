@@ -1,0 +1,11 @@
+export { default as AboutUsPage } from "./AboutUsPage";
+export { default as BlogPage } from "./BlogPage";
+export { default as ContactsPage } from "./ContactsPage";
+export { default as CoursePage } from "./CoursePage";
+export { default as CoursesPage } from "./CoursesPage";
+export { default as EventPage } from "./EventPage";
+export { default as EventsGridViewPage } from "./EventsGridViewPage";
+export { default as EventsListViewPage } from "./EventsListViewPage";
+export { default as HomePage } from "./HomePage";
+export { default as SignInPage } from "./SignInPage";
+export { default as SignUpPage } from "./SignUpPage";

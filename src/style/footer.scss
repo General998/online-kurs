@@ -1,0 +1,15 @@
+.h6-text {
+  @apply text-white mb-2;
+}
+button {
+  @apply fill-indigo-50 hover:fill-white text-indigo-50 hover:text-white;
+}
+a {
+  @apply text-indigo-50 hover:text-white;
+}
+ul {
+  @apply flex justify-between items-stretch gap-3;
+}
+li {
+  @apply text-xs relative flex flex-col gap-3   max-w-[300px];
+}

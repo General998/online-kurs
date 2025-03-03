@@ -1,0 +1,150 @@
+.primary-btn {
+  //   border: 1px solid red;
+  padding: 13px 32px;
+  background: rgb(255, 63, 58);
+  background: transparent;
+  .primary-btn-icon {
+    @apply fill-textPrimary;
+  }
+  @apply text-textPrimary rounded-sm transition-all duration-75 fill-textPrimary shrink-0;
+
+  &:hover {
+    background: linear-gradient(
+      229deg,
+      rgba(255, 63, 58, 1) 0%,
+      rgba(247, 94, 5, 1) 100%
+    );
+    @apply text-white;
+    .primary-btn-icon {
+      fill: white;
+    }
+  }
+}
+.secondary-btn {
+  //   border: 1px solid red;
+  background: transparent;
+  padding: 13px 32px;
+  @apply border rounded-sm border-bgPrimary  text-bgPrimary text-center shrink-0;
+  &:hover {
+    background: rgb(255, 63, 58);
+    background: linear-gradient(
+      229deg,
+      rgba(255, 63, 58, 1) 0%,
+      rgba(247, 94, 5, 1) 100%
+    );
+    @apply text-white rounded-sm transition-all duration-75;
+  }
+}
+.light-btn {
+  //   border: 1px solid red;
+  @apply bg-transparent py-[13px] px-[32px] flex gap-2 justify-center items-center shrink-0;
+  .primary-btn-icon {
+    @apply fill-[#9A9CA5];
+  }
+  @apply rounded-sm  text-[#9A9CA5] text-center border border-transparent;
+  &:hover {
+    @apply text-bgPrimary border border-bgPrimary rounded-sm transition-all duration-75;
+
+    .primary-btn-icon {
+      @apply fill-[#FF3F3A];
+    }
+  }
+}
+
+.swiper-button-next {
+  right: 0 !important;
+  top: 50% !important;
+  bottom: unset !important;
+  width: auto !important;
+  background-color: transparent;
+  svg {
+    width: 48px;
+    padding: 12px;
+    height: 48px;
+    fill: #424551;
+
+    border: 1px transparent solid;
+    border-radius: 24px;
+    background-color: transparent;
+  }
+
+  &:hover {
+    svg {
+      background-color: #ff3f3a;
+      fill: white !important;
+    }
+  }
+}
+.swiper-button-prev {
+  left: unset !important;
+  top: 50% !important;
+  bottom: unset !important;
+  width: auto !important;
+  background-color: transparent;
+  svg {
+    padding: 12px;
+    width: 48px;
+    height: 48px;
+
+    fill: #424551;
+
+    border: 1px transparent solid;
+    border-radius: 24px;
+    background-color: transparent;
+  }
+  &:hover {
+    svg {
+      background-color: #ff3f3a;
+      fill: white !important;
+    }
+  }
+}
+
+.swiper-btn-next {
+  right: 0 !important;
+  top: 50% !important;
+  bottom: unset !important;
+  width: auto !important;
+  background-color: transparent;
+  svg {
+    width: 48px;
+    padding: 12px;
+    height: 48px;
+    fill: #424551;
+
+    border: 1px transparent solid;
+    border-radius: 24px;
+    background-color: transparent;
+  }
+
+  &:hover {
+    svg {
+      background-color: #ff3f3a;
+      fill: white !important;
+    }
+  }
+}
+.swiper-btn-prev {
+  left: unset !important;
+  top: 50% !important;
+  bottom: unset !important;
+  width: auto !important;
+  background-color: transparent;
+  svg {
+    padding: 12px;
+    width: 48px;
+    height: 48px;
+
+    fill: #424551;
+
+    border: 1px transparent solid;
+    border-radius: 24px;
+    background-color: transparent;
+  }
+  &:hover {
+    svg {
+      background-color: #ff3f3a;
+      fill: white !important;
+    }
+  }
+}
