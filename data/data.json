@@ -316,5 +316,28 @@
       "title": " What is traffic arbitrage and does it really make money?",
       "text": " Pharetra, ullamcorper iaculis viverra parturient sed id sed.Convallis proin dignissim lacus, purus gravida..."
     }
-  ]
+  ],
+  "courseMainSteps": [
+    {
+      "number": "01",
+      "title": "Watching online video lectures",
+      "text": "Culpa nostrud commodo ea consequat aliquip reprehenderit. Veniam velit nostrud aliquip sunt."
+    },
+    {
+      "number": "02",
+      "title": "Passing test",
+      "text": "Anim reprehenderit sint voluptate exercitation adipisicing laborum adipisicing. Minim ad tempor est ea."
+    },
+    {
+      "number": "03",
+      "title": "Curator’s feedback",
+      "text": "Adipisicing esse aliqua aliquip qui amet. Aute eiusmod dolore dolore et ad et veniam ad deserunt."
+    },
+    {
+      "number": "04",
+      "title": "Corrections if needed",
+      "text": "Sit veniam aute dolore adipisicing nulla sit culpa. Minim mollit voluptate ullamco proident ea ad."
+    }
+  ],
+  "course": []
 }
